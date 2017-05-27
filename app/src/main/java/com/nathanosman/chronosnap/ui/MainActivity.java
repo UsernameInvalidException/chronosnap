@@ -25,6 +25,9 @@ import com.nathanosman.chronosnap.service.CaptureService;
  * This activity displays the start / stop button as well as the status of a
  * capture in progress.
  */
+
+//Commit test
+
 public class MainActivity extends ActionBarActivity
         implements NewSequenceDialogFragment.NewSequenceDialogListener {
 
